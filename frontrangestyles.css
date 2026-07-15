@@ -77,7 +77,7 @@
     height: 100px;
     border-radius: 50%;
     border: 0px solid #fff;
-    background-image: url('./Front\ Range\ International\ School\ images/logo.png');
+    background-image: url('./Front\ Range\ International\ School\ images/Logo.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -226,8 +226,11 @@
     border-radius: 10px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: end;
     transition: 0.3s ease-in-out;
+    background-image: url(./Front\ Range\ International\ School\ images/IMG_9129.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .content ul li:hover{
