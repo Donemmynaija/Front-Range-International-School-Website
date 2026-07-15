@@ -228,6 +228,19 @@
     justify-content: center;
     align-items: end;
     transition: 0.3s ease-in-out;
+}
+
+.Our-team ul li{
+    font-size: 20px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    transition: 0.3s ease-in-out;
     background-image: url(./Front\ Range\ International\ School\ images/IMG_9129.jpg);
     background-size: cover;
     background-repeat: no-repeat;
